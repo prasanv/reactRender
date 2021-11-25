@@ -12,4 +12,4 @@ const ParentChildrenRender = () => {
 )
 }
 
-export default ParentChildrenRender
+export default ParentChildrenRender;

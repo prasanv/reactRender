@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import UseStateRender from '../pages/usestate-render'
+import UseStateRender from './1-usestate-render'
 
 export default function Home() {
   return (
